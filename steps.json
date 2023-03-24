@@ -1,0 +1,158 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Holaa",
+                "Como estas",
+                "Que tal",
+                "Hay alguien ahi",
+                "Hey",
+                "Hola",
+                "Buen dia"
+            ],
+            "responses": [
+                "Hola extrañ@",
+                "Hola, ¿como puedo ayudarte?",
+                "Hola holaa",
+                "Hola",
+                "Heyyyy",
+                "¿Tu otra vez? :p"
+            ]
+        },
+        {
+            "tag": "Despedida",
+            "patterns": [
+                "Adios",
+                "Nos vemos luego",
+                "Bye",
+                "Ok adios",
+                "Bye Bye",
+                "Hasta luego",
+                "Hasta pronto",
+                "Hasta la vista"
+            ],
+            "responses": [
+                "Adios",
+                "Ten un lindo dia",
+                "Claro, adios",
+                "Hasta luego",
+                "Regresa pronto",
+                "Hasta pronto",
+                "Aqui estoy si necesitas algo",
+                "Hasta la vista"
+            ]
+        },
+        {
+            "tag": "Agradecimiento",
+            "patterns": [
+                "Gracias",
+                "Gracias por tu ayuda",
+                "Eso fue genial",
+                "Cool",
+                "Gracias por ayudarme",
+                "Gracias por todo",
+                "Gracias por tu tiempo",
+                "Eso fue interesante"
+            ],
+            "responses": [
+                "Estoy para ayudarte",
+                "Cuando quieras!",
+                "De nada",
+                "No hay problema, para eso me crearon",
+                "De nada, es un placer ayudarte",
+                "De nada, es un placer ayudarte"
+            ]
+        },
+        {
+            "tag": "sinEntender",
+            "patterns": [],
+            "responses": [
+                "Perdon, no te entendi",
+                "Dame mas informacion",
+                "No estoy entendiendote",
+                "Creo que no te entendi",
+                "No te entendi, puedes repetirlo?",
+                "¿Podrias ser mas claro?",
+                "Quiero ayudarte pero no entiendo lo que quieres decirme"
+            ]
+        },
+        {
+            "tag": "nombrebot",
+            "patterns": [
+                "Cual es tu nombre",
+                "Como te llamas",
+                "Dime tu nombre",
+                "Quien eres",
+                "Dime algo sobre ti",
+                "Con quien estoy hablando",
+                "Quien eres tu"
+            ],
+            "responses": [
+                "Yo soy Hera",
+                "Mi nombre es Hera",
+                "Me llamo Hera",
+                "Me puedes llamar Hera",
+                "Hera es mi nombre",
+                "Hera",
+                "Hera, tu asistente virtual de confianza",
+                "Mis creadores me llaman Hera"
+            ]
+        },
+        {
+            "tag": "opciones",
+            "patterns": [
+                "Que es lo que haces",
+                "Que puedes hacer",
+                "Que es lo que sabes hacer",
+                "Cual es tu proposito",
+                "Como puedes ayudarme",
+                "Que puedes hacer por mi",
+                "Para que te crearon"
+            ],
+            "responses": [
+                "Puedo darte una pequeña introduccion a las TICS",
+                "Puedo darte informacion sobre las TICS",
+                "Mi proposito es informarte sobre las TICS",
+                "Puedo ayudarte a entender las TICS",
+                "Te puedo brindar informacion sobre las TICS"
+            ]
+        },
+        {
+            "tag": "introduccionTICS",
+            "patterns": [
+                "TICS",
+                "Que son las TICS",
+                "TICS",
+                "Que puedes decirme sobre las tics",
+                "Que sabes sobre ese tema",
+                "Dime algo sobre las TICS",
+                "Tecnologias de la informacion y comunicacion",
+                "Que son las tecnologias de la informacion y comunicacion",
+                "Introduccion a las tics"
+            ],
+            "responses": [
+                "Las Tecnologías de la Información y la Comunicación son un conjunto de servicios, redes, software y aparatos que tienen como fin la mejora de la calidad de vida de las personas dentro de un entorno, y que se integran a un sistema de información interconectado y complementario",
+                "Las TIC se imaginan como el universo de dos conjuntos, representados por las tradicionales Tecnologías de la Comunicación, constituidas principalmente por la radio, la televisión y la telefonía convencional y por las Tecnologías de la Información, caracterizadas por la digitalización de las tecnologías de registros de contenidos",
+                "Las TIC son herramientas teórico conceptuales, soportes y canales que procesan, almacenan, sintetizan, recuperan y presentan información de la forma más variada"
+            ]
+        },
+        {
+            "tag": "iniciosTICS",
+            "patterns": [
+                "Inicio de las tics",
+                "Cual es el origen de las tics",
+                "Como surgieron las tics",
+                "Dime algo interesante sobre las tics"
+            ],
+            "responses": [
+                "Las tecnologías de la información y la comunicación (la unión de los computadores y las comunicaciones) desataron una explosión sin antecedentes de formas de comunicarse al comienzo de los años 90",
+                "Internet pasó de ser un instrumento experto de la comunidad científica a ser una red de fácil uso que modificó las pautas de interacción social",
+                "Las telecomunicaciones surgen a raíz de la invención del telégrafo (1833) y el posterior despliegue de redes telegráficas por la geografía nacional, que en España se desarrolla entre los años 1850 y 1900",
+                "La revolución electrónica iniciada en la década de los 70 constituye el punto de partida para el desarrollo creciente de la Era Digital",
+                "Los avances científicos en el campo de la electrónica tuvieron dos consecuencias inmediatas: la caída rápida de los precios de las materias primas y el predominio de las Tecnologías de la Información que combinaban la electrónica y el software",
+                "La mayoría de los especialistas coinciden en que los dos grandes progresos iniciales fueron el telégrafo y el teléfono, que aparecieron durante el siglo XIX"
+            ]
+        }
+    ]
+}
